@@ -1,4 +1,4 @@
-Add header MASTER.
+header 
 New text.
 Another new text.
 update text.END.
